@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-About Me:<br>I am a Front-End developer who loves to develop things for fun<br>I also sometimes do coding on leetcode and Codechef.<br>In addition to being a developer, I have a huge interest in Product management.<br>I try to gain as much experience as I by participating in different hackathons and learning different technologies with an open mind to have a broad vision of the industry. <br>I'm also interested in exploring entirely different fields from my major such as Psychology & Neurology. <br>
+About Me:
+<br>
+Hi there 👋, I am Rishabh Negi, I am a Front-End developer who loves to develop things for fun<br>I also sometimes do coding on leetcode and Codechef as a hobby  time.
+<br>
+In addition to being a developer, I have huge interest in Product management.
+<br>
+I always try to gain as much experience as i can by participating in different hackathons, competitions and learning modern technologies/tools to have a broader vision of the industry. 
+<br>
+I'm also interested in exploring entirely different fields from my major such as Psychology & Neurology. 
+<br>
 
 
 ## 🌐 Socials:
@@ -33,6 +42,5 @@ About Me:<br>I am a Front-End developer who loves to develop things for fun<br>I
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rishi-negi&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
