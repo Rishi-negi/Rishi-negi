@@ -23,7 +23,7 @@ I love exploring entirely different fields from my major such as Psychology & Ne
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rishi-negi&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-negi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
