@@ -1,15 +1,16 @@
 ### 💫 About Me:
 
 <br>
-Hi there 👋, I am Rishabh Negi and I am a Front-End developer who loves to develop things for fun
+
+Hello there👋, My name is Rishabh Negi, and I am a software developer who enjoys creating things for fun.
 <br>
-I also sometimes do coding on leetcode and Codechef as a hobby  time.
+As a hobby, I occasionally code on Leetcode and Codechef.
 <br>
-In addition to being a developer, I have huge interest in Product/Project management.
+Aside from development,I am very interested in machine learning, product/project management, and psychology.
 <br>
-My motive in life has always been to gain as much experience as i can whether it is from hackathons, coding competitions or from learning modern technologies & tools. 
+My life goal has always been to gain as much experience as possible, whether through hackathons, coding competitions, or learning about new technologies and tools.
 <br>
-I love exploring entirely different fields from my major such as Psychology & Neurology. 
+I enjoy learning about subjects other than my major, such as psychology and neurology.
 <br>
 
 
