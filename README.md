@@ -2,11 +2,11 @@
 
 <br>
 
-Hello there👋, My name is Rishabh Negi, and I am a software developer who enjoys creating things for fun.
+Hello there👋, My name is Rishabh Negi, and I am a software developer and like making stuff just for fun.
 <br>
 As a hobby, I occasionally code on Leetcode and Codechef.
 <br>
-Aside from development,I am very interested in machine learning, product/project management, and psychology.
+In addition to software, I'm highly interested in psychology, product and project management, and machine learning.
 <br>
 My life goal has always been to gain as much experience as possible, whether through hackathons, coding competitions, or learning about new technologies and tools.
 <br>
